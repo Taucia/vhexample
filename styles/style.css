@@ -1,0 +1,15 @@
+*{
+    margin:0;
+padding:0;
+}
+
+/*header and footer*/
+header,footer{
+    min-width:100%;
+    height:150px;
+    background-color: blueviolet;
+    color:white;
+}
+main{
+    min-height:100vh;
+}
